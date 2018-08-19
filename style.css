@@ -1,0 +1,168 @@
+.main{
+	border:2px solid blue;
+	padding:2%;
+	margin:2%;
+	display:flex;
+	flex-direction:row;
+}
+.left{
+	border:2px solid red;
+	padding:2%;
+	margin:2%;
+	border-radius:10%;
+	text-align:center;
+	width:30%;
+}
+.right{
+	border:2px solid red;
+	padding:2%;
+	margin:2%;
+	border-radius:10%;
+	width:60%;
+}
+#number{
+	color:black;
+	font-size:15px;
+}
+p{
+	color:black;
+	font-size:15px;
+}
+.left img{
+	width:30%;
+	border-radius:20%;
+	border:5px solid lightgreen;
+	box-shadow:12px 20px 18px black;
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+	.main{
+	border:2px solid blue;
+	padding:2%;
+	margin:2%;
+	display:flex;
+	flex-direction:column;
+}
+.left{
+	border:2px solid red;
+	padding:2%;
+	margin:2%;
+	border-radius:10%;
+	text-align:center;
+	width:90%;
+	background-color:pink;
+}
+.right{
+	border:2px solid red;
+	padding:2%;
+	margin:2%;
+	border-radius:10%;
+	width:90%;
+	font-size:15px;
+}
+#number{
+	color:black;
+	font-size:15px;
+}
+p{
+	color:black;
+	font-size:15px;
+}
+.left img{
+	width:30%;
+	border-radius:20%;
+	border:5px solid lightgreen;
+	box-shadow:12px 20px 18px black;
+}
+.table1{
+	width:90%;
+	overflow-x: auto;
+}
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+	.main{
+	border:2px solid blue;
+	padding:2%;
+	margin:2%;
+	display: flex;
+	flex-direction: row;
+}
+.left{
+	border:2px solid red;
+	padding:2%;
+	margin:2%;
+	border-radius:10%;
+	text-align: center;
+	width:50%;
+	background-color: orange;
+}
+.right{
+	border:2px solid red;
+	padding:2%;
+	margin:2%;
+	border-radius:10%;
+	width:50%;
+	background-color: gray;
+}
+#number{
+	color:black;
+	font-size:15px;
+}
+p{
+	color:black;
+	font-size:15px;
+}
+.left img{
+	width:30%;
+	border-radius:20%;
+	border:5px solid lightgreen;
+	box-shadow:12px 20px 18px black;
+}
+.table1{
+	width:90%;
+	overflow-x: auto;
+}
+}
+@media only screen and (min-width:769px) and (max-width:1024px){
+	.main{
+	border:2px solid blue;
+	padding:2%;
+	margin:2%;
+	display: flex;
+	flex-direction: row;
+}
+.left{
+	border:2px solid red;
+	padding:2%;
+	margin:2%;
+	border-radius:10%;
+	text-align: left;
+	width:40%;
+	background-color: lavender;
+}
+.right{
+	border:2px solid red;
+	padding:2%;
+	margin:2%;
+	border-radius:10%;
+	width:40%;
+	background-color: lightyellow;
+}
+#number{
+	color:black;
+	font-size:15px;
+}
+p{
+	color:black;
+	font-size:15px;
+}
+.left img{
+	width:30%;
+	border-radius:20%;
+	border:5px solid lightgreen;
+	box-shadow:12px 20px 18px black;
+}
+.table1{
+	width:90%;
+	overflow-x: auto;
+}
+}

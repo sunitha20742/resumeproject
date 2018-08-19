@@ -1,0 +1,59 @@
+{
+	"details":{
+		"image":"images.png",
+		"name":"SUNITHA",
+		"phno":"+91-7958251597",
+		"email":"rachakondanagasunitha@gmail.com",
+		"address":"vignan's nirula college,guntur."
+	},
+	"career":{
+		"info":"to become a good engineer."
+	},
+	"education":[
+		{
+			"qualification":"btech",
+			"institute":"vignan's nirula college",
+			"year":"2016-2020",
+			"percentage":"80%"
+		},
+		{
+			"qualification":"intermediate",
+			"institute":"sri chaitanya college",
+			"year":"2014-2016",
+			"percentage":"89.8%"
+		},
+		{
+			"qualification":"10th",
+			"institute":"sujatha",
+			"year":"2014",
+			"percentage":"90%"
+		}
+	],
+	"skills":[
+		{
+			"title":"programming languages",
+			"info":["c","c++","java","python"]
+		},
+		{
+			"title":"database",
+			"info":["sql","mysql","oracle"]
+		},
+		{
+			"title":"operating system",
+			"info":["windows","linux","unix"]
+		}
+
+],
+	"achievements":[
+		{
+			"title":"achieved",
+			"info":["got certified in ppt"]
+		},
+		{
+			"info":["got prize in gd"]
+		},
+		{
+			"info":["participated in debate"]
+		}
+    ]
+}
